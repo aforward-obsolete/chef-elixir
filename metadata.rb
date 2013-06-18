@@ -1,4 +1,4 @@
-name             "monit"
+name             "chef-elixir"
 maintainer       "Andrew Forward"
 maintainer_email "aforward@gmail.com"
 license          "MIT"

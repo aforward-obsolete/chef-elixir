@@ -1,5 +1,5 @@
 # Overview #
-Chef cookbook for the [monit](http://mmonit.com/monit/) monitoring and management tool.
+Chef cookbook for the elixir, a functional language built on top of erlang.
 
 # How to add to your cookbook repository #
 
