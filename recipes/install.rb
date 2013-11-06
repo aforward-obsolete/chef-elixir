@@ -3,7 +3,7 @@ src_dir = "#{node[:elixir][:install_dir]}/elixir"
 
 execute "elixir make" do
   # currently make test fails some specs -- so just make
-  command "make"
+  command "make clean && make"
   cwd "#{src_dir}"
   action :nothing
 end
